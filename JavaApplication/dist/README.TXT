@@ -1,0 +1,1 @@
+Please copy the "default-profile.png" image in this directory to your Desktop directory. Thank You.
